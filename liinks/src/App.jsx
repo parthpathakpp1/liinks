@@ -20,6 +20,7 @@ function App() {
        <Features />
        {/* <WhyUs /> */}
        <WhoUse />
+       
        <Social />
        <SocialTwo />
        <Organize />
